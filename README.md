@@ -48,6 +48,6 @@ Real-time peer-to-peer communication app built on WebRTC.
 
 ## Connect
 
-- LinkedIn: [add link]
-- Email: [add email]
-- LeetCode: [add link]
+- LinkedIn:https://www.linkedin.com/in/keshav-ajagaoankar-02526724a
+- Email: keshavvamanajagaonkar@gmail.com
+- LeetCode:https://leetcode.com/u/KeshavAjagaonkar
