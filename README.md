@@ -2,7 +2,7 @@
 
 Backend & full-stack developer building production-grade systems — MERN, Node.js, PostgreSQL, and AI integration through RAG pipelines.
 
-Recent B.E. Computer Engineering graduate (Terna Engineering College, Navi Mumbai — CGPA 8.72) looking for full-stack / backend engineering roles. 300+ DSA problems solved on LeetCode, mostly in C++. Published researcher (IJRDET).
+Recent B.E. Computer Engineering graduate (Terna Engineering College, Navi Mumbai — CGPA 8.84) looking for full-stack / backend engineering roles. 300+ DSA problems solved on LeetCode, mostly in C++. Published researcher (IJRDET).
 
 ## Tech Stack
 
